@@ -51,6 +51,14 @@ module.exports = {
           'chapter3/',
         ]
       },
+
+      {
+        title: '新添加测试',
+        collapsable: false,
+        children: [
+          'chapter4/test',
+        ]
+      },
     ],
     // sidebarDepth: 3 // 左侧导航的深度默认是2级
   },
